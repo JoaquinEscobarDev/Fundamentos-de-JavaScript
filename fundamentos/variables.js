@@ -9,11 +9,11 @@ console.log(cajaDeAndy); // Woody
 
 
 // No permitido
-let c = 'Woody';
-let cda = 'Woody';
-let pcAndy = 'Woody';
-let c, cda
-    pcAndy = 'Woody';
+// let c = 'Woody';
+// let cda = 'Woody';
+// let pcAndy = 'Woody';
+// let c, cda
+//     pcAndy = 'Woody';
 
 // Permitido
 let primerTrasteoDeAndy = 'Woody';
