@@ -1,25 +1,26 @@
-🚀 Ruta de Aprendizaje: JavaScript Profesional
+# 🚀 Ruta de Aprendizaje: JavaScript Profesional
 
-Bienvenido/a a mi repositorio donde documentaré mi progreso en la Ruta de Aprendizaje de JavaScript en Platzi. Aquí encontrarás ejemplos prácticos, proyectos y notas clave de cada curso.
-📋 Cursos Incluidos en la Ruta
-Curso	Descripción	Carpeta en Repo	Estado
-🔹 Curso de Fundamentos de JavaScript	Sintaxis básica, variables, funciones y estructuras de control.	/1-fundamentos	
-🖥️ Curso de Manipulación del DOM	Interacción dinámica con HTML/CSS usando JavaScript.	/2-dom	
-🎨 Curso de Patrones de Diseño en JavaScript	Singleton, Factory, Observer y otros patrones esenciales.	/3-patrones-diseno	
-📊 Curso de Estructuras de Datos con JavaScript	Arrays, listas enlazadas, pilas, colas y algoritmos.	/4-estructuras-datos	
-✨ Curso de Clean Code y Buenas Prácticas	Principios SOLID, legibilidad y mantenibilidad.	/5-clean-code	
-📦 Curso de NPM y Gestión de Dependencias	Uso de paquetes, package.json y publicación de módulos.	/6-npm	
-🛠 Estructura del Repositorio
-bash
-Copy
+Bienvenido/a a mi repositorio donde documentaré mi progreso en la **Ruta de Aprendizaje de JavaScript** en Platzi. Aquí encontrarás ejemplos prácticos, proyectos y notas clave de cada curso.
+
+## 📋 Cursos Incluidos en la Ruta
+
+| Curso | Descripción | Carpeta | Estado |
+|-------|------------|---------|--------|
+| 🔹 **Fundamentos de JavaScript** | Sintaxis básica, variables, funciones | [`/1-fundamentos`](/1-fundamentos) | 🚧 En progreso |
+| 🖥️ **Manipulación del DOM** | Interacción con HTML/CSS | [`/2-dom`](/2-dom) | ⌛ Pendiente |
+| 🎨 **Patrones de Diseño** | Singleton, Factory, Observer | [`/3-patrones-diseno`](/3-patrones-diseno) | ⌛ Pendiente |
+| 📊 **Estructuras de Datos** | Arrays, listas, pilas, colas | [`/4-estructuras-datos`](/4-estructuras-datos) | ⌛ Pendiente |
+| ✨ **Clean Code** | Principios SOLID, legibilidad | [`/5-clean-code`](/5-clean-code) | ⌛ Pendiente |
+| 📦 **NPM** | Gestión de paquetes | [`/6-npm`](/6-npm) | ⌛ Pendiente |
+
+## 🗂 Estructura del Repositorio
 
 .
-├── 1-fundamentos/           # Ejercicios básicos (variables, funciones)
-├── 2-dom/                   # Proyectos con manipulación del DOM
-├── 3-patrones-diseno/       # Implementación de patrones de diseño
-├── 4-estructuras-datos/     # Código de estructuras de datos
-├── 5-clean-code/            # Ejemplos de código limpio
-├── 6-npm/                   # Configuración de proyectos con NPM
-├── proyectos-finales/       # Proyectos integradores
-└── README.md                # Este archivo
-
+├── 1-fundamentos/ # Ejercicios básicos
+├── 2-dom/ # Proyectos con DOM
+├── 3-patrones-diseno/ # Implementación de patrones
+├── 4-estructuras-datos/ # Estructuras de datos
+├── 5-clean-code/ # Código limpio
+├── 6-npm/ # Gestión de paquetes
+├── proyectos-finales/ # Proyectos integradores
+└── README.md # Este archivo
