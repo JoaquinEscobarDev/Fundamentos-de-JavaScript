@@ -15,12 +15,18 @@ Bienvenido/a a mi repositorio donde documentaré mi progreso en la **Ruta de Apr
 
 ## 🗂 Estructura del Repositorio
 
-.
-├── 1-fundamentos/ # Ejercicios básicos
-├── 2-dom/ # Proyectos con DOM
-├── 3-patrones-diseno/ # Implementación de patrones
-├── 4-estructuras-datos/ # Estructuras de datos
-├── 5-clean-code/ # Código limpio
-├── 6-npm/ # Gestión de paquetes
-├── proyectos-finales/ # Proyectos integradores
-└── README.md # Este archivo
+    1-fundamentos/ - Ejercicios básicos
+
+    2-dom/ - Proyectos con DOM
+
+    3-patrones-diseno/ - Implementación de patrones
+
+    4-estructuras-datos/ - Estructuras de datos
+
+    5-clean-code/ - Código limpio
+
+    6-npm/ - Gestión de paquetes
+
+    proyectos-finales/ - Proyectos integradores
+
+    README.md - Este archivo
