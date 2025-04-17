@@ -6,11 +6,11 @@ Bienvenido/a a mi repositorio donde documentaré mi progreso en la **Ruta de Apr
 
 | Curso | Descripción | Carpeta | Estado |
 |-------|------------|---------|--------|
-| 🔹 **Fundamentos de JavaScript** | Sintaxis básica, variables, funciones | [`/1-fundamentos`](/1-fundamentos) | 🚧 En progreso |
-| 🖥️ **Manipulación del DOM** | Interacción con HTML/CSS | [`/2-dom`](/2-dom) | ⌛ Pendiente |
-| 🎨 **Patrones de Diseño** | Singleton, Factory, Observer | [`/3-patrones-diseno`](/3-patrones-diseno) | ⌛ Pendiente |
-| 📊 **Estructuras de Datos** | Arrays, listas, pilas, colas | [`/4-estructuras-datos`](/4-estructuras-datos) | ⌛ Pendiente |
-| ✨ **Clean Code** | Principios SOLID, legibilidad | [`/5-clean-code`](/5-clean-code) | ⌛ Pendiente |
+| 🔹 **Fundamentos de JavaScript** | Sintaxis básica, variables, funciones | [`/1-fundamentos`](/fundamentos) | 🚧 En progreso |
+| 🖥️ **Manipulación del DOM** | Interacción con HTML/CSS | [`/2-dom`](/dom) | ⌛ Pendiente |
+| 🎨 **Patrones de Diseño** | Singleton, Factory, Observer | [`/3-patrones-diseno`](/patrones-diseno) | ⌛ Pendiente |
+| 📊 **Estructuras de Datos** | Arrays, listas, pilas, colas | [`/4-estructuras-datos`](/estructuras-datos) | ⌛ Pendiente |
+| ✨ **Clean Code** | Principios SOLID, legibilidad | [`/5-clean-code`](/clean-code) | ⌛ Pendiente |
 | 📦 **NPM** | Gestión de paquetes | [`/6-npm`](/6-npm) | ⌛ Pendiente |
 
 ## 🗂 Estructura del Repositorio
